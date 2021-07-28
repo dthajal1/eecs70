@@ -1,1 +1,1 @@
-# EECS 70
+# EECS 70: Discrete Mathematics
